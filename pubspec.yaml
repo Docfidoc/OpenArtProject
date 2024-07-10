@@ -1,0 +1,78 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  flutter_timer_countdown: ^1.0.7
+  carousel_slider: ^4.2.1
+
+  flutter_svg: any
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/vectors/vector_17_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/emoji_13_x2.svg
+  - assets/vectors/emoji_4_x2.svg
+  - assets/vectors/polygon_12_x2.svg
+  - assets/vectors/polygon_116_x2.svg
+  - assets/vectors/polygon_117_x2.svg
+  - assets/vectors/polygon_122_x2.svg
+  - assets/vectors/polygon_129_x2.svg
+  - assets/vectors/plus_4_x2.svg
+  - assets/vectors/plus_13_x2.svg
+  - assets/vectors/plus_x2.svg
+  - assets/images/Avatar.png
+  - assets/images/Avatar1.png
+  - assets/images/Avatar2.png
+  - assets/images/Chartpie.png
+  - assets/images/David.png
+  - assets/images/David2.png
+  - assets/images/Emoji.png
+  - assets/images/Export.png
+  - assets/images/External.png
+  - assets/images/Heart.png
+  - assets/images/image_1.png
+  - assets/images/image_2.png
+  - assets/images/image_4.png
+  - assets/images/image_11.png
+  - assets/images/image_12.png
+  - assets/images/image_13.png
+  - assets/images/image4.png
+  - assets/images/Logo.png
+  - assets/images/Logo2.png
+  - assets/images/LogoHeight.png
+  - assets/images/Menu.png
+  - assets/images/processor.png
+  - assets/images/rectangle_1.png
+  - assets/images/rectangle_6.png
+  - assets/images/rectangle_9.png
+  - assets/images/rectangle_10.png
+  - assets/images/rectangle_11.png
+  - assets/images/rectangle_12.png
+  - assets/images/rectangle_15.png
+  - assets/images/rectangle_16.png
+  - assets/images/rectangle_18.png
+  - assets/images/rectangle_61.png
+  - assets/images/rectangle_110.png
+  - assets/images/rectangle_111.png
+  - assets/images/rectangle_112.png
+  - assets/images/rectangle_436.png
+  - assets/images/Rectangle1.png
+  - assets/images/security.png
+  - assets/images/server.png
+  - assets/images/Star.png
